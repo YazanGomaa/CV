@@ -1,0 +1,29 @@
+body{
+
+ background-color: #16a596;
+
+}
+
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1
+{
+
+  color: PowderBlue;
+
+
+}
+h3
+{
+
+  color: PowderBlue;
+
+
+}
